@@ -55,7 +55,10 @@ git clone <repo-url>
 Open the notebook:
 jupyter notebook Customer_Churn.ipynb
 Run the cells step by step to reproduce the analysis and model training.
-
+download data from this link 
+https://drive.google.com/file/d/1FVfXDjyu7K11svQKi3eyXMoFxuew10Vt/view?usp=share_link
+and this
+https://drive.google.com/file/d/1R8VzU3J8egKo1aUVmxUDLaDNymUnHpN0/view?usp=share_link
 ## Project Structure
 
 .
