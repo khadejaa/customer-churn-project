@@ -74,5 +74,4 @@ Add Docker support for reproducible environments.
 Implement automated retraining and model monitoring (e.g., using Evidently).
 Author
 
-Developed by [Your Name].
-Feel free to contribute or raise issues in this repository.
+
